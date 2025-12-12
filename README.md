@@ -31,8 +31,8 @@ Alphabet-Classification-Description/
 │   ├── emnist-letters-train.csv          # Training dataset (124,800 samples)
 │   └── emnist-letters-test.csv           # Testing dataset (20,800 samples)
 ├── Models/
-│   ├── DL_Projectv3.ipynb                # Baseline VGG implementation
-│   ├── DL_Projectv5.ipynb                # Enhanced multi-architecture implementation
+│   ├── MobileNet $ VIT.ipynb                # Baseline VGG implementation
+│   ├── preprocessing & VGG-19.ipynb         # Enhanced multi-architecture implementation
 │   ├── inceptionv1-googlenet.ipynb       # GoogLeNet/Inception V1 with PyTorch
 │   └── ResNet.ipynb                      # ResNet-focused implementation
 └── Documentation of Architectures/
